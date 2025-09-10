@@ -22,6 +22,7 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
+
 <img width="767" height="52" alt="image" src="https://github.com/user-attachments/assets/560b8387-978d-4199-a266-4ad7299c916c" />
 
 
@@ -30,6 +31,7 @@ The ls command is used to display a list of content of a directory.
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
+
 <img width="314" height="75" alt="image" src="https://github.com/user-attachments/assets/d8a5bb23-ec6c-4ea6-8c85-27c555e3727c" />
 
  
@@ -38,6 +40,7 @@ Syntax: pwd
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
+
 <img width="302" height="50" alt="image" src="https://github.com/user-attachments/assets/abff5647-6deb-4a15-979a-f59b7b133ae7" />
 
 
@@ -61,6 +64,7 @@ Syntax: cd <directory name>
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 Syntax: cat [OPTION]... [FILE]..
+
 <img width="455" height="128" alt="Screenshot 2025-09-08 101149" src="https://github.com/user-attachments/assets/ab1cc9b6-2ecf-4ef5-9d9f-ef16ba66e732" />
 
  
@@ -77,6 +81,7 @@ Syntax: cp <existing file name> <new file name>
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
 
 Syntax: gedit file_name
+
 <img width="400" height="51" alt="Screenshot 2025-09-08 112444" src="https://github.com/user-attachments/assets/d9645e4f-a74b-4243-864b-731d7446b538" />
 
 
@@ -92,6 +97,7 @@ Syntax: su <user name>
 The mv command is used to move a file or a directory form one location to another location.
 
 Syntax: mv <file name> <directory path>
+
 <img width="420" height="62" alt="Screenshot 2025-09-08 112431" src="https://github.com/user-attachments/assets/b327e709-5e3a-4534-8596-fa681e9ad2f5" />
 
  
@@ -100,6 +106,7 @@ Syntax: mv <file name> <directory path>
 The rename command is used to rename files. It is useful for renaming a large group of files.
 
 Syntax: rename 's/old-name/new-name/' files
+
 <img width="607" height="113" alt="Screenshot 2025-09-08 112713" src="https://github.com/user-attachments/assets/9da356ce-6e17-4a29-abb4-c76828efae03" />
 
 
@@ -108,6 +115,7 @@ Syntax: rename 's/old-name/new-name/' files
 The head command is used to display the content of a file. It displays the first 10 lines of a file.
 
 Syntax: head <file name>
+
 <img width="242" height="203" alt="Screenshot 2025-09-08 112852" src="https://github.com/user-attachments/assets/49f58cca-d40c-43f3-82c5-1c0160b56806" />
 
 
@@ -124,6 +132,7 @@ Syntax: tail <file name>
 The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
+
 <img width="1679" height="83" alt="Screenshot 2025-09-08 113039" src="https://github.com/user-attachments/assets/28881c1c-d38e-4ef3-876c-3b88e129ce4c" />
 
 
@@ -140,6 +149,7 @@ Syntax: command | grep <search word>
 The tr command is used to translate the file content like from lower case to upper case.
 
 Syntax: command | tr <'old'> <'new'>
+
 <img width="342" height="223" alt="Screenshot 2025-09-08 113351" src="https://github.com/user-attachments/assets/6ee33176-51f2-45ec-a6f2-4143cf311c73" />
 
 ### 17)	chmod Command
@@ -147,6 +157,7 @@ Syntax: command | tr <'old'> <'new'>
 The chmod command is used to change the access mode of a file (i.e., read, write or execute)
 
 Syntax: chmod<options><permissions><file_name>
+
 <img width="355" height="48" alt="image" src="https://github.com/user-attachments/assets/a41ccad5-acae-46c5-89ec-4a474f7ad32c" />
 
 ### 18)	tar Command
@@ -187,6 +198,7 @@ $chmod -R 777 /path/to/file/or/folder
 The host command is used to display the IP address for a given domain name and vice versa. It performs the DNS lookups for the DNS Query.
 
 Syntax: host <domain name> or <ip address>
+
 <img width="315" height="65" alt="Screenshot 2025-09-08 114537" src="https://github.com/user-attachments/assets/4690b769-8ede-49d8-875b-f1f89b7aa9ac" />
 
 
@@ -202,6 +214,7 @@ Syntax: gzip <file1> <file2> <file3>..
 The sort command is used to sort files in alphabetical order.
 
 Syntax:sort <file name>
+
 <img width="326" height="122" alt="Screenshot 2025-09-08 113619" src="https://github.com/user-attachments/assets/8aa5cc99-d6d3-484d-8f61-30bfb13dd071" />
 
  
@@ -210,6 +223,7 @@ Syntax:sort <file name>
 The cal command is used to display the current month's calendar with the current date highlighted.
 
 Syntax: cal
+
 <img width="312" height="162" alt="Screenshot 2025-09-08 113657" src="https://github.com/user-attachments/assets/3038ebb2-189d-4ee0-bb64-bea391092ca1" />
 
 
@@ -232,6 +246,7 @@ Syntax: mail -s "Subject" <recipient address>
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+
 <img width="760" height="221" alt="Screenshot 2025-09-08 113726" src="https://github.com/user-attachments/assets/ed41fde0-da39-474e-914c-7ea31815eafd" />
 
 ### 30)	find Command
