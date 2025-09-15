@@ -49,6 +49,7 @@ Syntax: mkdir <directory name>
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
+<img width="260" height="87" alt="image" src="https://github.com/user-attachments/assets/0ad288fc-d6de-4ef8-b6f4-de2c19990c5f" />
 
 
 ### 5)	cd Command
@@ -74,6 +75,7 @@ The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
 
+<img width="280" height="292" alt="image" src="https://github.com/user-attachments/assets/86efc755-414c-4b6b-83b3-cd75559eac7b" />
 
 
 ### 8)	gedit Command
@@ -84,6 +86,7 @@ Syntax: gedit file_name
 
 <img width="400" height="51" alt="Screenshot 2025-09-08 112444" src="https://github.com/user-attachments/assets/d9645e4f-a74b-4243-864b-731d7446b538" />
 
+<img width="646" height="455" alt="image" src="https://github.com/user-attachments/assets/65b7ccf3-4c15-4427-ae38-4e57fbb9024b" />
 
 ### 9)	su Command
 
@@ -91,6 +94,7 @@ The su command provides administrative access to another user. In other words, i
 
 Syntax: su <user name>
 
+<img width="252" height="105" alt="image" src="https://github.com/user-attachments/assets/b131abd5-a939-4a39-9c2d-09c4e507018e" />
 
 ### 10)	mv Command
 
@@ -166,6 +170,9 @@ The tar command is used for creating Archieve and extracting the archieve files.
 
 Syntax: tar[options][archieve-file] [file to be archieved]
 $ tar xvzf file.tar *.c
+
+<img width="279" height="152" alt="Screenshot 2025-09-15 100415" src="https://github.com/user-attachments/assets/1a55a52b-a9d8-4fcb-bb8e-ff823b736f7b" />
+
  
 ### 19)	chown Command
 
@@ -173,11 +180,16 @@ The chown command is used to change ownership.
 
 Syntax: chown owner_name file_name
 
+<img width="516" height="112" alt="image" src="https://github.com/user-attachments/assets/b974791e-2413-4840-a940-ee41c711a8d9" />
+
+
 ### 20)	make Command
 
 The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
+
+<img width="1446" height="326" alt="Screenshot 2025-09-15 101148" src="https://github.com/user-attachments/assets/61625b87-3b61-44b7-b2be-65928d483f89" />
 
 
 ### 21)	ifconfig Command
@@ -186,12 +198,17 @@ The ifconfig command is used to configure kernel-resident network interface.
 
 Syntax: ifconfig[options][interface]
 
+<img width="708" height="98" alt="image" src="https://github.com/user-attachments/assets/b06468aa-866f-4d9d-95b6-97801583cdf1" />
+
+
 ### 22)	chmod 777 Command
 
 The chmod 777 command gives read, write and execute permission to the owner, group and public.
 
 Syntax: chmod 777 file_name
 $chmod -R 777 /path/to/file/or/folder
+<img width="497" height="107" alt="image" src="https://github.com/user-attachments/assets/c290453d-dfab-4b40-bfbf-43a828e535a6" />
+
  
 ### 23)	host Command
 
