@@ -49,6 +49,7 @@ Syntax: mkdir <directory name>
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
+
 <img width="260" height="87" alt="image" src="https://github.com/user-attachments/assets/0ad288fc-d6de-4ef8-b6f4-de2c19990c5f" />
 
 
@@ -84,7 +85,6 @@ The gedit is a general-purpose text editor. It can be used to create and edit al
 
 Syntax: gedit file_name
 
-<img width="400" height="51" alt="Screenshot 2025-09-08 112444" src="https://github.com/user-attachments/assets/d9645e4f-a74b-4243-864b-731d7446b538" />
 
 <img width="646" height="455" alt="image" src="https://github.com/user-attachments/assets/65b7ccf3-4c15-4427-ae38-4e57fbb9024b" />
 
