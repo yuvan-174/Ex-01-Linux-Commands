@@ -225,6 +225,8 @@ The gzip command is used to truncate the file size. It is a compressing tool. It
 
 Syntax: gzip <file1> <file2> <file3>..
 
+<img width="1072" height="110" alt="image" src="https://github.com/user-attachments/assets/3d87e9a5-a3c3-4a12-b675-f0a07fc71a5f" />
+
 
 ### 25)	sort Command
 
@@ -250,12 +252,16 @@ Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
 
+<img width="272" height="58" alt="image" src="https://github.com/user-attachments/assets/a6b16056-6f4f-491c-a5ad-28fc031b23f7" />
+
 
 ### 28)	mail Command
 
 The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" <recipient address>
+
+<img width="467" height="47" alt="image" src="https://github.com/user-attachments/assets/bc88ffbe-61f5-4700-907d-0a79f2d7d04a" />
 
  
 ### 29)	df Command
@@ -272,23 +278,7 @@ The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="296" height="63" alt="image" src="https://github.com/user-attachments/assets/ec1a79d2-edde-4a5f-b9a5-7fc747056c2c" />
 
 
 
